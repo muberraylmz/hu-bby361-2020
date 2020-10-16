@@ -1,0 +1,33 @@
+Kütüphane Veri Tabanı Analizi
+
+1. Hayata geçirilecek sistem neye hizmet edecektir?
+   Hayata geçirilecek olan veri tabanı, teknoloji hakkında olan kitapların bulunduğu dernek kütüphanesinin katalog veri tabanıdır.
+   
+2. Veri tabanı hangi ihtiyaçları karşılayacaktır?
+   Hayata geçirilecek olan veri tabanı sistemi sayesinde kaynakların künye bilgileri hem kayıt altına alınabilecek hem veri tabanı sistemi üzerinden kaynaklar sorgulanabilecek 
+   hem de kaynaklara erişim sağlanılabilecektir.
+   
+3. Veri tabanında hangi veriler depolanacaktır?
+   A. Kitaba ait veriler
+   B. Yazara ait veriler
+   C. Yayınevine ait veriler depolanacaktır.
+  
+4. Veri tabanında ne tür veriler depolanacaktır?
+   Kitaba ait veriler için;
+    > Kitabın Adı
+    > Kitabın Yazar Adı
+    > Kitabın Yazar Soyadı
+    > Kitabın Basım Yılı
+    > Kitabın Basım Yeri
+    > Kitabın Yayınevi Adı
+    > Kitaba Ait Fiziksel Özellikler
+    > ISBN
+   
+   Yazara ait veriler için;
+    > Yazarın Adı
+    > Yazarın Soyadı
+    > Yazar No
+   
+   Yayınevine ait veriler için;
+    > Yayınevi Adı
+    > Yayınevi No verileri depolanacaktır.
